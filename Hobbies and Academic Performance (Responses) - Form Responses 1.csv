@@ -1,0 +1,29 @@
+Timestamp,Gender,Age,Hobbies_Hours,Hobbies,Hobbies_Importance,Studying_Hours,GPA
+3/8/2024 23:09:08,Male,20,10,"Sports (e.g., football, basketball, swimming), Creative Arts (e.g., drawing, playing music), Board Games (e.g., chess), Video Games, Watching Movies, Socializing/Spending time with friends",5,21,3.7
+3/8/2024 23:10:12,Male,19,14,"Board Games (e.g., chess), Watching Movies",4,21,3.8
+3/8/2024 23:13:09,Male,20,8,"Sports (e.g., football, basketball, swimming), Watching Movies",5,3,3.63
+3/8/2024 23:14:59,Male,20,30,"Creative Arts (e.g., drawing, playing music), Video Games, Watching Movies, Socializing/Spending time with friends",5,15,3.7
+3/8/2024 23:16:36,Male,20,0,"Sports (e.g., football, basketball, swimming), Video Games",4,21,2.68
+3/8/2024 23:18:06,Male,20,14,"Video Games, Socializing/Spending time with friends",3,4 or 5,3.92
+3/9/2024 0:21:04,Male,19,5,"Creative Arts (e.g., drawing, playing music), Reading",5,12,3.91
+3/9/2024 0:30:56,Male,19,10,"Sports (e.g., football, basketball, swimming), Socializing/Spending time with friends",4,15,3.95
+3/9/2024 1:21:33,Male,19,20 hours,"Sports (e.g., football, basketball, swimming), Video Games, Socializing/Spending time with friends",4,About 14 hours,3.85
+3/9/2024 1:42:03,Female,19,12,"Creative Arts (e.g., drawing, playing music), Video Games, Watching Movies",5,10,3.68
+3/9/2024 7:20:39,Male,20,3,Reading,3,13,3.86
+3/9/2024 7:32:22,Male,20,14 per week ,"Sports (e.g., football, basketball, swimming), Board Games (e.g., chess), Video Games, Socializing/Spending time with friends",3,28 per week ,2
+3/9/2024 8:41:32,Female,19,3,Socializing/Spending time with friends,2,4,2.35
+3/9/2024 9:48:07,Female,19,6,"Creative Arts (e.g., drawing, playing music), Watching Movies",4,12,3.7
+3/9/2024 11:32:10,Male,21,20,"Sports (e.g., football, basketball, swimming), Board Games (e.g., chess), Video Games, Socializing/Spending time with friends",3,30,3.35
+3/9/2024 11:54:54,Male,21,3-5,"Video Games, Watching Movies, Reading, Socializing/Spending time with friends",4,10-14,2.5
+3/9/2024 11:56:23,Male,20,0,Video Games,3,0,3.9
+3/9/2024 11:56:24,Male,19,30,"Video Games, Watching Movies",4,20:30,2.8
+3/9/2024 11:56:27,Female,20,About 4,"Creative Arts (e.g., drawing, playing music), Watching Movies, Reading",5,36,3.82
+3/9/2024 12:04:22,Male,18,12-20,"Creative Arts (e.g., drawing, playing music)",4,5,1.56
+3/9/2024 12:35:17,Male,20,6,"Board Games (e.g., chess), Socializing/Spending time with friends",4,10,3.2
+3/9/2024 13:24:33,Male,18,3,Reading,4,8,3.89
+3/9/2024 21:08:02,Male,19,21,"Video Games, Watching Movies, Socializing/Spending time with friends",2,35,3.84
+3/9/2024 21:10:30,Male,20,45,"Sports (e.g., football, basketball, swimming), Video Games, Watching Movies, Socializing/Spending time with friends",5,12,2.4
+3/9/2024 21:11:41,Female,20,20,"Board Games (e.g., chess), Watching Movies, Reading",5,35,3.77
+3/9/2024 21:12:52,Female,20,27,"Creative Arts (e.g., drawing, playing music), Board Games (e.g., chess), Reading",5,28,3.62
+3/9/2024 21:13:59,Female,20,20,"Video Games, Watching Movies, Socializing/Spending time with friends",5,10,2.3
+3/9/2024 21:14:54,Male,18,25,"Sports (e.g., football, basketball, swimming), Video Games, Watching Movies, Socializing/Spending time with friends",5,10,2.6
